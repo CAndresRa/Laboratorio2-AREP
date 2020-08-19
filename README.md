@@ -5,7 +5,7 @@
 
 ## Despliegue Heroku
 
-[https://lab02arep.herokuapp.com/]: https://lab02arep.herokuapp.com/
+https://lab02arep.herokuapp.com/
 
 ## Uso 
 
@@ -56,4 +56,4 @@ Puede obtener los Javadocs de este documento en el siguiente enlace [JavaDocs]()
 
 ![](https://github.com/CAndresRa/Laboratorio2-AREP/blob/master/Img%20Readme/doc.png)
 
-[ApiDocs]: https://github.com/CAndresRa/Laboratorio2-AREP/tree/master/apidocs
+https://github.com/CAndresRa/Laboratorio2-AREP/tree/master/apidocs
