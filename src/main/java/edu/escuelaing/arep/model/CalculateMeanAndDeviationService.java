@@ -10,6 +10,7 @@ public class CalculateMeanAndDeviationService {
 
     /**
      * service class constructor
+     * @param input list that contains data
      */
     public CalculateMeanAndDeviationService(List<String> input) {
         this.mean = new Mean();
